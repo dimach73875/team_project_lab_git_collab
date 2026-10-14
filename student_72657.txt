@@ -1,1 +1,2 @@
 Student 72657: Learning Git branches and teamwork.
+Git commands practiced: clone, branch, add, commit, push, pull request.
